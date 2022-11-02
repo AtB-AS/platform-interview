@@ -7,7 +7,7 @@ You have the following constraints:
 Both tenants need the following workload running:
 
 Workload X
-* Container image: europe-west1-docker.pkg.dev/platform-interview-3568/docker/workload-x:latest
+* Container image: europe-west1-docker.pkg.dev/platform-interview-8e2f/docker/workload-x:latest
 * Needs to be exposed to the internet over HTTP
 * Listens to `0.0.0.0:8080` by default
 * Configuration:
@@ -15,5 +15,5 @@ Workload X
 
 `tenant-b` needs the following workload running:
 Workload Y
-* Container image: europe-west1-docker.pkg.dev/platform-interview-3568/docker/workload-y:latest
+* Container image: europe-west1-docker.pkg.dev/platform-interview-8e2f/docker/workload-y:latest
 * Needs access to a secret.
