@@ -39,7 +39,7 @@ preferences: {}
 users:
 - name: gke_platform-interview-8e2f_europe-west1_interview
   user:
-    token: <to-be-replaced>
+    token: ya29.c.b0AUFJQsFzMDeLsnTpaz2TsHmcHYWUUI24YYF-S6CdXtrCJPciz3e4A8jL4q2rCOLzhfITeaWmOIZW71m9y88wsbclOj3T72tU9Tu3l8DC5YGXAwoUB6IUynoh13SMSehXYAVa_ifm5h99tuG7x1fuRH23TCnz3ZxwbuyLuaNqtbBPsycaCMOs7qfhQwAyxR-LPU49Dks_7e8_e1xrVMyCXMm-Lp18tbxwbtt0MO9OJ6xW7Dvdln0rccXvaw49jDbM9OVkyGXXbz4t_pr6xT6oO0yOkxKfFnTtURK4-tTL7IQnzwz5BGbMdE9N-Zdyo6YHY-yWcFMWSF8EzFVzaGM5vOEuL8ZeogETqnwFOpAHFgtRPWKkfqMQQyc2yirdcdsQrI0MYKhIQb1xSiau_w9mE4F0F8kUuNiUEVPY7fl8YJH4vl0yoU8mcwYT9jM7bdQYUdo6ez6KT1dx6XXilptYsk4L...............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
 ```
 
 Store this in a file and point the environment variable KUBECONFIG to it, eg:
