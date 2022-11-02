@@ -9,7 +9,7 @@ Both tenants need the following workload running:
 
 ## Kubeconfig
 Use the following kubeconfig:
-```shell
+```yaml
 apiVersion: v1
 clusters:
 - cluster:
