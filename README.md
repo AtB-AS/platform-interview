@@ -14,6 +14,7 @@ Workload X
   * Environment variable `NS`: the current namespace
 
 `tenant-b` needs the following workload running:
+
 Workload Y
 * Container image: europe-west1-docker.pkg.dev/platform-interview-8e2f/docker/workload-y:latest
 * Needs access to a secret.
