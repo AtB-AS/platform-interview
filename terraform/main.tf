@@ -134,4 +134,5 @@ module "gke" {
   enable_private_nodes            = true
   datapath_provider               = "ADVANCED_DATAPATH"
   master_ipv4_cidr_block          = "172.16.0.0/28"
+  depends_on                      = [module.vpc]
 }
